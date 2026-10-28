@@ -1,0 +1,1 @@
+Native PROPHET DSP from keremimo/melodee v1.4.1 (GPL-3.0-only). Only programs 6,8,13,15,18 of the unchanged Sequential v1.03 bank are included. New engine ID13; all previous engine/preset IDs remain unchanged. Part-level SLOOP dual-core scheduler retained; Melodee batch scheduler is not imported. Native hot kernels and tables are copied with .data into RAM.

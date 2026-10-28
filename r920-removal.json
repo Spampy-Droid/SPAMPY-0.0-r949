@@ -1,0 +1,14 @@
+{
+  "base": "r919",
+  "removed": [
+    "JUNO BRASS",
+    "LAGOON BASS",
+    "M1 WARM",
+    "WARM PAD",
+    "WOOD BARS"
+  ],
+  "bank_entries": 105,
+  "melodic_presets": 104,
+  "prophet_logical_ids": "unchanged; removed slot 25 resolves to INIT",
+  "drums": "unchanged"
+}

@@ -1,0 +1,6 @@
+{
+  "base": "r923",
+  "removed": ["WOBBLE", "FAT BASS", "BASS GTR", "CLAV", "STEEL DRUM", "XYLOPHONE", "FM PLUCK", "RESO PLUCK", "CZ RESO", "GB BASS", "REGGAE ORG", "HARMONICA", "WOW BASS", "CHIP NOISE", "NES BASS", "ROBOT", "MIN7 STAB", "DUB CHORD", "HOOVER", "SOUL ORGAN", "GOSPEL", "DIRTY B3", "HOUSE ORGN", "ROCK ORGAN", "GLASS BELL", "ROUND BASS", "BRASS SECT", "WOOD BARS", "808 BOOM", "808 DIRTY", "808 SLIDE"],
+  "aliases_resolved": {"FA BASS": "FAT BASS", "RAGGAE O": "REGGAE ORG", "HARMONIC": "HARMONICA", "DIRTY 33": "DIRTY B3"},
+  "effect": "Removed from factory menu and compiled preset tables; logical project IDs are unavailable."
+}

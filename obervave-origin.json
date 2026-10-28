@@ -1,0 +1,36 @@
+{
+  "repository": "https://github.com/zvenson/obervave",
+  "commit": "6194c3bbf0d485bbd889d90800684fbb9ab3f757",
+  "release": "1.5",
+  "factory_names": [
+    "POLY BRASS",
+    "UNISON LD",
+    "PWM STRING",
+    "SWEEP PAD",
+    "BRASS STAB",
+    "DRONE UNI",
+    "ARP CHORD",
+    "VINTAGE PD",
+    "NEON PAD",
+    "INIT",
+    "GLASS ARP"
+  ],
+  "display_names": [
+    "POLY BRASS",
+    "UNISON LD",
+    "PWM STRING",
+    "SWEEP PAD",
+    "BRASS STAB",
+    "DRONE UNI",
+    "ARP CHORD",
+    "VINTAGE PD",
+    "NEON PAD",
+    "INIT",
+    "GLASS ARP"
+  ],
+  "user_aliases": {
+    "SWEET PAD": "SWEEP PAD",
+    "BRASS STAR": "BRASS STAB",
+    "POLY LP25": "INIT (user correction)"
+  }
+}

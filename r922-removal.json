@@ -1,0 +1,27 @@
+{
+  "base": "r921",
+  "removed": [
+    "ARP CHORD",
+    "BELL",
+    "BRASS STAB",
+    "DRONE UNI",
+    "FAINT MEMORIES",
+    "GLASS ARP",
+    "INIT",
+    "LESLIED",
+    "POLY BRASS",
+    "SAW BASS",
+    "VIBE HAZE",
+    "VINTAGE PD"
+  ],
+  "melodic_sounds": 103,
+  "bank_entries": 104,
+  "drums": "unchanged",
+  "remaining_obervave": [
+    "UNISON LD",
+    "PWM STRING",
+    "SWEEP PAD",
+    "NEON PAD"
+  ],
+  "stable_logical_ids": true
+}

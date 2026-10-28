@@ -1,0 +1,33 @@
+{
+  "base": "r922",
+  "factory_names": [
+    "DREAM ARP",
+    "BIG BRASS",
+    "HORN SECT",
+    "WARM PAD",
+    "DARK PAD",
+    "AIR CHOIR",
+    "SLOW SWEEP",
+    "GHOST PAD",
+    "ENSEMBLE",
+    "TAPE KEYS",
+    "PWM LEAD"
+  ],
+  "added": [
+    "DREAM ARP",
+    "BIG BRASS",
+    "HORN SECT",
+    "WARM PAD",
+    "DARK PAD",
+    "AIR CHOIR",
+    "SLOW SWEEP",
+    "GHOST PAD",
+    "OB ENSEMBLE",
+    "TAPE KEYS",
+    "PWM LEAD"
+  ],
+  "melodic_sounds": 114,
+  "bank_entries": 115,
+  "drums": "unchanged",
+  "existing_ensemble": "kept; new OberVave variant named OB ENSEMBLE"
+}
