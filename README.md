@@ -1,6 +1,6 @@
 # SPAMPY 0.0 — r949
 
-Custom M-VAVE FM-1 firmware based on Felucca, with a synthwave-inspired interface, sound tools, scenes, drum processing, effects, and games.
+Custom M-VAVE FM-1 firmware based on Felucca/Sloop, with a synthwave-inspired interface, sound tools, scenes, drum processing, effects, and games.
 
 ## r949
 
@@ -16,4 +16,4 @@ https://www.youtube.com/@SYNTHSOUNDEXPERIENCEky2nq
 
 ## Credits and licence
 
-Based on the Felucca firmware. See the r949 source archive for the applicable upstream licence notices.
+Based on the Felucca/Sloop firmware. See the r949 source archive for the applicable upstream licence notices.
