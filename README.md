@@ -17,3 +17,5 @@ https://www.youtube.com/@SYNTHSOUNDEXPERIENCEky2nq
 ## Credits and licence
 
 Based on the Felucca/Sloop firmware. See the r949 source archive for the applicable upstream licence notices.
+
+You can also try SPAMPY in the browser, no flashing needed, in the free community [FM-1 Emulator](https://fm1-emulator.atst.tools/).
