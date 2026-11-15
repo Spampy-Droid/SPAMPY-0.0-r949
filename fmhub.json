@@ -1,5 +1,5 @@
 {
-  "what": "SPAMPY 1.0: a five-track synthwave FM-1 firmware with 170 synth presets, 44 drum kits including KAVINSKY, scenes, effects, new NEON arpeggiator and Slicer modes, extended envelope controls for non-digital engines, and 5 built-in arcade games.",
+  "what": "SPAMPY 1.1: five-track synthwave FM-1 firmware with 170 synth presets, 44 drum kits including KAVINSKY, scenes, effects, 10 synthwave/atmospheric arpeggiators, extended envelope controls, corrected MIDI channel routing (no unintended synth or drum track triggering), dual-flash compatibility for original and newer FM-1 units, and 5 built-in arcade games.",
   "kinds": [
     "groove"
   ]
